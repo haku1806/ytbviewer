@@ -14,7 +14,6 @@ echo.
 Echo App YTBViewer se duoc khoi dong lai sau 13000 giay.
 echo.
 Echo Ban Phai Khoi Dong Auto Nay Cung Luc Voi Tool YTBViewer !!
-Echo.
 echo.
 echo Press Ctrl-C to cancel.
 echo.
